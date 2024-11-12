@@ -1,5 +1,5 @@
 [package]
-name = "Elliptic_Add_Real_Numbers"
+name = "Elliptic Curve Point Arithmetic with Real Numbers"
 version = "0.1.0"
 edition = "2021"
 
