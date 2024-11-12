@@ -31,8 +31,8 @@ struct Point {
 - To get started, ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your machine. You can then clone the repository and build the project:
 - Clone the repository:
 ```
-git clone https://github.com/cypriansakwa/Elliptic-Curve-Point-Arithmetic-with-Real-Numbers.git
-cd Elliptic-Curve-Point-Arithmetic-with-Real-Numbers
+git clone https://github.com/cypriansakwa/Elliptic_Curve_Point_Arithmetic_with_Real_Numbers.git
+cd Elliptic_Curve_Point_Arithmetic_with_Real_Numbers
 ```
 - Compile and run the program:
 ```
