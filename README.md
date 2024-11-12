@@ -28,6 +28,7 @@ struct Point {
 - `double_point` Function: This function performs the point doubling operation for a given point `p`.
 - `main` Function: The `main` function demonstrates the usage of `add_points` and `double_point`.
 ## Usage
+- To get started, ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your machine. You can then clone the repository and build the project:
 - Clone the repository:
 ```
 git clone https://github.com/cypriansakwa/Elliptic-Curve-Point-Arithmetic-with-Real-Numbers.git
